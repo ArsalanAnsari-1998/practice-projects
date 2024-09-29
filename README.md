@@ -1,1 +1,1 @@
-# Tokyo Olympics Project Using Pyspark and Spark SQL
+# Tokyo Olympics Databricks Project
