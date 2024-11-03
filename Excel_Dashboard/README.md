@@ -3,7 +3,7 @@ A Dashboard Using Excel
 # Steps:
 •	Removed Duplicates
 
-•	Performed Data Cleaing
+•	Performed Data Cleaning
 
 •	Created Pivot tables and Charts
 
